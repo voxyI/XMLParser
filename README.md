@@ -1,2 +1,2 @@
 # XMLParser
-A simple XML parser used in conjunction with another program to manage inventory at an ice cream store. XML was necesssary so the program could store some persistent data when the program was closed.
+A simple XML parser used in conjunction with another program to manage inventory at an ice cream store. XML was necesssary so the program could store some persistent data when the program was closed. Please note, while this will work for most xml files, there are exceptions, it is not universal. This was done on purpose to cutback on some of the overhead that would be needed to create a universal parser.
